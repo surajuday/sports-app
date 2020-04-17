@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a sports-app",
   "main": "index.js",
+  "homepage": "http://surajuday.github.io/sports-app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/surajuday/sports-app/issues"
   },
-  "homepage": "https://github.com/surajuday/sports-app#readme",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
